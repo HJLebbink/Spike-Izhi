@@ -1,0 +1,49 @@
+#ignore thumbnails created by windows
+Thumbs.db
+#Ignore files build by Visual Studio
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+*.class
+*.vpd
+Spike-Masquelier-Main/kernels.txt
+*.db3
+*.sdf
+*.ipch
+*.opensdf
+*~
+*.o
+*.out
+**.a
+**.u2d
+**.mod
+*.ipgset
+**.modmic
+**/.dropbox.attr
+*.VC.db
+**.db-shm
+**.VC.db-wal
+/HTM-Fortran-Main/My Advisor Results - HTM-Fortran-Main/*
+/HTM-Main/My Advisor Results - HTM-Main/*
+/HTM-Main/My Amplifier Results - HTM-Main/My Amplifier Results - HTM-Main.amplxeproj
+/Spike-Fortran-Main/My Advisor Results - Spike-Fortran-Main/My Advisor Results - Spike-Fortran-Main.advixeproj
+/HTM-Fortran-Main/My Amplifier Results - HTM-Fortran-Main/My Amplifier Results - HTM-Fortran-Main.amplxeproj
+**.obj
+/HTM-Main/My Amplifier Results - HTM-Main/*
+/enc_temp_folder/*
+/HTM-core/**
